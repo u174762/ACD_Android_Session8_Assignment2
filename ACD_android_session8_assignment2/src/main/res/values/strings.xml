@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Preferences_SettingPage</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="array_list_reminder_frequency">
+
+        <item>Once in a Day</item>
+
+        <item>Twice a Day</item>
+
+        <item>Thrice a Day</item>
+      </string-array>
+
+
+    <string-array name="array_list_reminder_frequency_values">
+
+        <item>Item1</item>
+
+        <item>Item2</item>
+
+        <item>Item3</item>
+      </string-array>
+
+
+</resources>
